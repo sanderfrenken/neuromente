@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article>
+  <header class="page-hero">
+    <div class="shell page-hero-grid">
+      <div>
+        <p class="eyebrow">{{ .Params.eyebrow | default "Neuromente" }}</p>
+        <h1>{{ .Title }}</h1>
+        {{ with .Description }}<p class="hero-lead">{{ . }}</p>{{ end }}
+      </div>
+      <div class="page-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+    </div>
+  </header>
+  <div class="shell article-layout">
+    {{ with .TableOfContents }}<aside class="toc"><p>Op deze pagina</p>{{ . }}</aside>{{ end }}
+    <div class="prose">{{ .Content }}</div>
+  </div>
+</article>
+{{ end }}
+

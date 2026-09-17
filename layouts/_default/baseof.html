@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#164e59">
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+    <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+    {{ if .IsHome }}<link rel="preload" href="{{ "images/neuromente-hero.png" | relURL }}" as="image" fetchpriority="high">{{ end }}
+    {{ $styles := resources.Get "css/main.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
+    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | Neuromente{{ end }}</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Ga naar de inhoud</a>
+    {{ partial "header.html" . }}
+    <main id="main">{{ block "main" . }}{{ end }}</main>
+    {{ partial "footer.html" . }}
+    <script>
+      const trigger = document.querySelector('[data-menu-trigger]');
+      const nav = document.querySelector('[data-menu]');
+      if (trigger && nav) trigger.addEventListener('click', () => {
+        const open = trigger.getAttribute('aria-expanded') === 'true';
+        trigger.setAttribute('aria-expanded', String(!open));
+        nav.dataset.open = String(!open);
+      });
+    </script>
+  </body>
+</html>

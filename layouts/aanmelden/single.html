@@ -1,0 +1,31 @@
+{{ define "main" }}
+<article>
+  <header class="page-hero page-hero-signup">
+    <div class="shell page-hero-grid">
+      <div>
+        <p class="eyebrow">Aanmelden bij Neuromente</p>
+        <h1>{{ .Title }}</h1>
+        <p class="hero-lead">Vul het beveiligde aanmeldformulier in. Daarna neemt de praktijk contact met u op over de vervolgstappen.</p>
+      </div>
+      <div class="page-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+    </div>
+  </header>
+  <div class="shell form-layout">
+    <div class="prose">{{ .Content }}</div>
+    <section class="form-card" aria-labelledby="form-title">
+      <h2 id="form-title">Aanmeldformulier</h2>
+      {{ with site.Params.formdeskURL }}
+        <p>Het formulier opent in een beveiligde omgeving van Formdesk.</p>
+        <a class="button button-primary button-full" href="{{ . }}" target="_blank" rel="noopener">Open het beveiligde formulier</a>
+      {{ else }}
+        <div class="form-pending">
+          <span aria-hidden="true">i</span>
+          <p><strong>Het formulier wordt momenteel gekoppeld.</strong><br>Neem in de tussentijd contact op via <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a>.</p>
+        </div>
+      {{ end }}
+      <p class="form-note">Deel geen medische informatie via gewone e-mail.</p>
+    </section>
+  </div>
+</article>
+{{ end }}
+

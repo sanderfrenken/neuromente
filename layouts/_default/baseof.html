@@ -3,10 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#164e59">
+    <meta name="theme-color" content="#55624f">
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
-    <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
-    {{ if .IsHome }}<link rel="preload" href="{{ "images/neuromente-hero.png" | relURL }}" as="image" fetchpriority="high">{{ end }}
+    <link rel="icon" href="{{ "favicon.png" | relURL }}" type="image/png">
+    <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
+    {{ if .IsHome }}<link rel="preload" href="{{ "images/logo-neuromente.png" | relURL }}" as="image" fetchpriority="high">{{ end }}
     {{ $styles := resources.Get "css/main.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
     <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | Neuromente{{ end }}</title>

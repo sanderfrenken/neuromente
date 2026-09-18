@@ -7,7 +7,7 @@
         <h1>{{ .Title }}</h1>
         {{ with .Description }}<p class="hero-lead">{{ . }}</p>{{ end }}
       </div>
-      <div class="page-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+      <div class="page-mark" aria-hidden="true"><img src="{{ "images/logo-neuromente.png" | relURL }}" alt="" width="1050" height="1050"></div>
     </div>
   </header>
   <div class="shell article-layout">
@@ -16,4 +16,3 @@
   </div>
 </article>
 {{ end }}
-

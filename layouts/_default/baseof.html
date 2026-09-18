@@ -10,7 +10,7 @@
     {{ if .IsHome }}<link rel="preload" href="{{ "images/logo-neuromente.png" | relURL }}" as="image" fetchpriority="high">{{ end }}
     {{ $styles := resources.Get "css/main.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
-    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | Neuromente{{ end }}</title>
+    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | NeuroMente{{ end }}</title>
   </head>
   <body>
     <a class="skip-link" href="#main">Ga naar de inhoud</a>

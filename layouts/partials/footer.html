@@ -3,9 +3,9 @@
     <div>
       <a class="brand footer-brand" href="{{ site.Home.RelPermalink }}">
         <img class="brand-mark" src="{{ "images/logo-neuromente.png" | relURL }}" alt="" width="1050" height="1050">
-        <span>neuromente</span>
+        <span><strong>NeuroMente</strong><small>klinische neuropsychologie</small></span>
       </a>
-      <p>Praktijk voor neuropsychologie</p>
+      <p>Kleinschalige praktijk voor neuropsychologische diagnostiek en behandeling.</p>
     </div>
     <div>
       <h2>Contact</h2>
@@ -15,12 +15,21 @@
     </div>
     <div>
       <h2>Praktisch</h2>
-      <a href="{{ "/clienten/" | relURL }}#privacy">Privacy</a>
-      <a href="{{ "/verwijzers-verzekeraars/" | relURL }}">Verwijzers & verzekeraars</a>
+      <a href="{{ "/praktische-informatie/" | relURL }}#documenten">Privacyverklaring</a>
+      <a href="{{ "/praktische-informatie/" | relURL }}#documenten">Klachtenregeling</a>
+      <a href="{{ "/praktische-informatie/" | relURL }}#documenten">Kwaliteitsstatuut</a>
+      <a href="{{ "/praktische-informatie/" | relURL }}#documenten">Voorwaarden & no-showregeling</a>
+    </div>
+    <div>
+      <h2>Registraties</h2>
+      <p>BIG, AGB en KvK worden voor opening toegevoegd.</p>
+      <div class="language-switch language-switch-footer" aria-label="Taalkeuze">
+        {{ if hasPrefix .RelPermalink "/es/" }}<a href="{{ "/" | relURL }}" lang="nl">NL</a><i aria-hidden="true">|</i><span aria-current="true" lang="es">ES</span>{{ else }}<span aria-current="true">NL</span><i aria-hidden="true">|</i><a href="{{ "/es/" | relURL }}" lang="es">ES</a>{{ end }}
+      </div>
     </div>
   </div>
   <div class="shell footer-bottom">
-    <span>© {{ now.Year }} Neuromente</span>
+    <span>© {{ now.Year }} NeuroMente</span>
     <span>Bij spoed: bel uw huisarts of de huisartsenpost. Bel 112 bij direct gevaar.</span>
   </div>
 </footer>

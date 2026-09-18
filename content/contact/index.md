@@ -19,5 +19,4 @@ Informatie over telefonisch spreekuur, werkdagen, route en toegankelijkheid volg
 
 ## Bij spoed {#spoed}
 
-Neuromente biedt geen crisiszorg. Neem bij spoed contact op met uw huisarts of buiten kantooruren met de huisartsenpost. Bel **112** bij direct gevaar.
-
+NeuroMente biedt geen crisiszorg. Neem bij spoed contact op met uw huisarts of buiten kantooruren met de huisartsenpost. Bel **112** bij direct gevaar.

@@ -1,11 +1,11 @@
 baseURL = "https://neuromente.nl/"
 locale = "nl-NL"
-title = "Neuromente | Praktijk voor neuropsychologie"
+title = "NeuroMente | Praktijk voor klinische neuropsychologie"
 enableRobotsTXT = true
 disableKinds = ["taxonomy", "term", "RSS"]
 
 [params]
-  description = "Neuromente is een praktijk voor neuropsychologie. Informatie voor cliënten, verwijzers en verzekeraars."
+  description = "NeuroMente is een kleinschalige praktijk voor klinische neuropsychologie, diagnostiek en behandeling in het Nederlands en Spaans."
   email = "info@neuromente.nl"
   phone = ""
   address = ""
@@ -13,21 +13,37 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
 [menu]
   [[menu.main]]
-    name = "Voor cliënten"
-    pageRef = "/clienten"
+    name = "Home"
+    pageRef = "/"
     weight = 10
   [[menu.main]]
-    name = "Verwijzers & verzekeraars"
-    pageRef = "/verwijzers-verzekeraars"
+    name = "Voor wie"
+    pageRef = "/voor-wie"
     weight = 20
   [[menu.main]]
-    name = "Contact"
-    pageRef = "/contact"
+    name = "Behandeling"
+    pageRef = "/behandeling"
     weight = 30
+  [[menu.main]]
+    name = "Onderzoek"
+    pageRef = "/onderzoek"
+    weight = 40
+  [[menu.main]]
+    name = "Over mij"
+    pageRef = "/over-mij"
+    weight = 50
+  [[menu.main]]
+    name = "Voor verwijzers"
+    pageRef = "/verwijzers"
+    weight = 60
+  [[menu.main]]
+    name = "Praktische informatie"
+    pageRef = "/praktische-informatie"
+    weight = 70
   [[menu.main]]
     name = "Aanmelden"
     pageRef = "/aanmelden"
-    weight = 40
+    weight = 80
 
 [markup]
   [markup.goldmark]

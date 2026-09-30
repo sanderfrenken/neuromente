@@ -29,6 +29,27 @@
             referrerpolicy="strict-origin-when-cross-origin"
           ><a href="{{ . }}" target="_blank" rel="noopener noreferrer">Vul het online formulier in: Aanmeldformulier NeuroMente</a></iframe>
         </div>
+        <script>
+          (() => {
+            const frame = document.querySelector(".formdesk-frame");
+            if (!frame) return;
+
+            let adjustedHeight = "";
+            const addBottomSpace = () => {
+              if (!frame.style.height || frame.style.height === adjustedHeight) return;
+              const height = Number.parseFloat(frame.style.height);
+              if (!Number.isFinite(height)) return;
+              adjustedHeight = `${Math.ceil(height + 96)}px`;
+              frame.style.height = adjustedHeight;
+            };
+
+            new MutationObserver(addBottomSpace).observe(frame, {
+              attributes: true,
+              attributeFilter: ["style"]
+            });
+            addBottomSpace();
+          })();
+        </script>
         <a class="button button-secondary formdesk-external-link" href="{{ . }}" target="_blank" rel="noopener noreferrer">Open formulier in apart venster</a>
       {{ else }}
         <div class="form-pending">

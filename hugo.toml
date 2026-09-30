@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
   email = "info@neuromente.nl"
   phone = ""
   address = ""
-  formdeskURL = ""
+  formdeskURL = "https://www.formdesk.com/neuromente/form1"
 
 [menu]
   [[menu.main]]

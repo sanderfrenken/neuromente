@@ -16,14 +16,18 @@
       <h2 id="form-title">Aanmeldformulier</h2>
       {{ with site.Params.formdeskURL }}
         <p>Vul hieronder het beveiligde formulier van Formdesk in. Werkt het formulier niet goed op uw apparaat? Open het dan in een apart venster.</p>
+        <script src="https://www.formdesk.com/scripts/auto-size-scale.min.js"></script>
         <div class="formdesk-frame-wrap">
           <iframe
             class="formdesk-frame"
             src="{{ . }}"
             title="Beveiligd aanmeldformulier NeuroMente"
+            allowtransparency="true"
+            fd_autosize="yes"
+            fd_autoscale="yes"
             loading="eager"
             referrerpolicy="strict-origin-when-cross-origin"
-          ></iframe>
+          ><a href="{{ . }}" target="_blank" rel="noopener noreferrer">Vul het online formulier in: Aanmeldformulier NeuroMente</a></iframe>
         </div>
         <a class="button button-secondary formdesk-external-link" href="{{ . }}" target="_blank" rel="noopener noreferrer">Open formulier in apart venster</a>
       {{ else }}

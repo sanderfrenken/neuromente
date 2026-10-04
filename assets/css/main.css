@@ -189,7 +189,7 @@ p { margin: 0 0 1.25em; }
 .form-note { margin: 18px 0 0; color: var(--ink-soft); font-size: .88rem; }
 
 .site-footer { padding-top: 70px; color: #e2e5de; background: #343d31; }
-.footer-grid { display: grid; grid-template-columns: 1.3fr .7fr .8fr .8fr; gap: 54px; padding-bottom: 58px; }
+.footer-grid { display: grid; grid-template-columns: 1.2fr .7fr .8fr 1.25fr; gap: 44px; padding-bottom: 58px; }
 .footer-brand { color: var(--white); }
 .footer-brand small { color: #c8cec4; }
 .footer-grid h2 { margin-bottom: 14px; color: var(--sage); font: 700 .78rem/1.2 var(--font-primary); letter-spacing: .1em; text-transform: uppercase; }

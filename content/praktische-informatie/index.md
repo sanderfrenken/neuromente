@@ -102,7 +102,11 @@ De actuele wachttijd kan ook per e-mail of telefonisch worden opgevraagd.
 
 ## Afspraken en bereikbaarheid {#afspraken}
 
-De openingstijden, telefonische bereikbaarheid en het praktijkadres worden hier toegevoegd zodra deze gegevens definitief zijn.
+Afspraken vinden plaats op afspraak.
+
+NeuroMente bouwt de praktijk momenteel geleidelijk op. Vanaf januari 2027 zijn afspraken in principe mogelijk op donderdag. De actuele beschikbaarheid wordt afgestemd bij aanmelding.
+
+Voor vragen of aanmelding kunt u gebruikmaken van het contact- of aanmeldformulier. NeuroMente is niet bereikbaar voor spoedeisende hulp of crisiszorg.
 
 ## Klachtenregeling {#klachtenregeling}
 

@@ -1,7 +1,6 @@
 ---
-title: "Neuropsychologische behandeling"
+title: "(Neuro)psychologische behandeling"
 eyebrow: "Behandeling"
-description: "Behandeling bij de cognitieve, emotionele en dagelijkse gevolgen van een neurologische aandoening of hersenletsel."
 ---
 
 Een neurologische aandoening of hersenletsel kan gevolgen hebben voor hoe u denkt, voelt en functioneert in het dagelijks leven. Soms blijven klachten bestaan of krijgen ze steeds meer invloed op werk, relaties, zelfstandigheid of kwaliteit van leven.

@@ -3,15 +3,17 @@
   <header class="page-hero">
     <div class="shell page-hero-grid">
       <div>
-        <p class="eyebrow">{{ .Params.eyebrow | default "NeuroMente" }}</p>
+        {{ if not .Params.hide_eyebrow }}<p class="eyebrow">{{ .Params.eyebrow | default "NeuroMente" }}</p>{{ end }}
         <h1>{{ .Title }}</h1>
         {{ with .Description }}<p class="hero-lead">{{ . }}</p>{{ end }}
       </div>
       <div class="page-mark" aria-hidden="true"><img src="{{ "images/logo-neuromente.png" | relURL }}" alt="" width="1050" height="1050"></div>
     </div>
   </header>
-  <div class="shell article-layout">
-    {{ with .TableOfContents }}<aside class="toc"><p>Op deze pagina</p>{{ . }}</aside>{{ end }}
+  <div class="shell article-layout{{ if .Params.hide_toc }} article-layout-wide{{ end }}">
+    {{ if not .Params.hide_toc }}
+      {{ with .TableOfContents }}<aside class="toc"><p>Op deze pagina</p>{{ . }}</aside>{{ end }}
+    {{ end }}
     <div class="prose">{{ .Content }}</div>
   </div>
 </article>

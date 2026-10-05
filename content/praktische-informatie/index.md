@@ -1,7 +1,6 @@
 ---
 title: "Praktische informatie"
 eyebrow: "Goed om te weten"
-description: "Informatie over kosten en vergoeding, wachttijden, afspraken, bereikbaarheid, privacy en klachten."
 ---
 
 Hier vindt u informatie over kosten en vergoeding, wachttijden, afspraken, bereikbaarheid, privacy en klachten.
@@ -55,15 +54,19 @@ Bij niet verschijnen of bij afzegging minder dan 24 uur voor aanvang van de afsp
 
 ## Wachttijd, afspraken en bereikbaarheid {#wachttijd-en-bereikbaarheid}
 
-NeuroMente is een startende praktijk. Op dit moment is er geen structurele wachttijd.
+NeuroMente bevindt zich momenteel in de opstartfase. Er is op dit moment nog geen structurele wachttijd.
 
-Na aanmelding ontvangt u binnen vijf werkdagen een reactie. Eerst wordt bekeken of uw hulpvraag aansluit bij het aanbod van NeuroMente. Wanneer dit het geval is, wordt in overleg een intake gepland.
+Na aanmelding ontvangt u binnen vijf werkdagen een reactie. Daarbij wordt eerst bekeken of uw hulpvraag aansluit bij het aanbod van NeuroMente. Wanneer dit het geval is, wordt in overleg een intake gepland.
 
-Wanneer de wachttijd oploopt, wordt de actuele informatie op deze pagina aangepast.
+Afspraken bij NeuroMente vinden in principe plaats op **donderdag** en uitsluitend op afspraak.
+
+Zodra de praktijk volledig is gestart, worden hier de actuele aanmeld- en behandelwachttijden gepubliceerd.
+
+## Praktijklocatie {#praktijklocatie}
+
+NeuroMente is gevestigd aan de **Ravellaan 28, 3533 JN Utrecht**.
 
 Afspraken vinden uitsluitend op afspraak plaats.
-
-Voor aanmelding kunt u gebruikmaken van het [beveiligde aanmeldformulier](/aanmelden/#aanmeldformulier). Voor algemene of praktische vragen kunt u mailen naar [info@neuromente.nl](mailto:info@neuromente.nl).
 
 ## Privacy, klachten en documenten {#privacy-klachten-documenten}
 

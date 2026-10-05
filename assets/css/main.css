@@ -152,9 +152,11 @@ p { margin: 0 0 1.25em; }
 .page-mark::before { position: absolute; z-index: -1; width: 220px; aspect-ratio: 1; content: ""; background: rgba(255,255,255,.45); border: 1px solid rgba(89,102,83,.15); border-radius: 50%; }
 .page-mark img { width: 205px; height: 205px; object-fit: contain; }
 .article-layout { display: grid; grid-template-columns: 240px minmax(0, 760px); justify-content: space-between; gap: 70px; padding-block: 70px 92px; }
+.article-layout-wide { grid-template-columns: minmax(0, 760px); justify-content: center; }
 .toc { position: sticky; top: 30px; align-self: start; padding-left: 20px; border-left: 2px solid var(--taupe); }
 .toc > p { margin-bottom: 10px; font-size: .8rem; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; }
 .toc ul { margin: 0; padding: 0; list-style: none; }
+.toc ul ul { margin: 6px 0 12px 12px; padding-left: 12px; border-left: 1px solid var(--line); }
 .toc li { margin: 8px 0; }
 .toc a { color: var(--ink-soft); font-size: .93rem; text-decoration: none; }
 .toc a:hover { color: var(--sage-deep); text-decoration: underline; }

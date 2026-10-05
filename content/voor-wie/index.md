@@ -1,7 +1,6 @@
 ---
 title: "Voor wie"
 eyebrow: "Passende neuropsychologische zorg"
-description: "Voor volwassenen met een vastgestelde neurologische aandoening of aantoonbaar hersenletsel."
 aliases: ["/clienten/"]
 ---
 

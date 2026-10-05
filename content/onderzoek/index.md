@@ -1,7 +1,6 @@
 ---
 title: "Neuropsychologisch onderzoek"
 eyebrow: "Diagnostiek"
-description: "Onderzoek naar cognitief functioneren, geïnterpreteerd in samenhang met uw klachten en dagelijks leven."
 ---
 
 Een neuropsychologisch onderzoek kan helpen om beter te begrijpen hoe het cognitief functioneren samenhangt met de klachten die u ervaart en wat deze betekenen voor het dagelijks leven.

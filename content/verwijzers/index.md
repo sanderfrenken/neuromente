@@ -1,7 +1,6 @@
 ---
 title: "Voor verwijzers"
 eyebrow: "Samenwerking"
-description: "Informatie voor verwijzers over het aanbod, passend verwijzen en professionele afstemming."
 aliases: ["/verwijzers-verzekeraars/"]
 ---
 
@@ -31,14 +30,14 @@ Vermeld in de verwijsbrief bij voorkeur:
 - eerdere relevante diagnostiek of behandeling;
 - actuele medicatie, indien relevant.
 
-Verwijsbrieven en relevante medische informatie kunnen via een beveiligde route worden aangeleverd.
+## Overleggen over een verwijzing {#overleg}
 
-## Vooraf overleggen {#overleg}
+Twijfelt u of een verwijzing passend is, of wilt u vooraf inhoudelijk overleggen? Dat kan via **[info@neuromente.nl](mailto:info@neuromente.nl)**.
 
-Twijfelt u of een verwijzing passend is? Voorafgaand overleg is mogelijk via [info@neuromente.nl](mailto:info@neuromente.nl).
+U kunt in uw e-mail eventueel uw telefoonnummer vermelden en aangeven op welke momenten u bereikbaar bent. Ik probeer dan op een van deze momenten telefonisch contact met u op te nemen.
+
+Verwijsbrieven en medische informatie kunnen via een beveiligde route worden aangeleverd.
 
 ## Terugkoppeling aan de verwijzer {#terugkoppeling}
 
 Met toestemming van de cliënt wordt de verwijzer geïnformeerd over relevante bevindingen en, waar van toepassing, de afronding van diagnostiek of behandeling.
-
-<div class="content-cta"><div><h2>Overleggen over een verwijzing?</h2><p>Gebruik e-mail alleen voor algemene of praktische vragen en stuur geen medische informatie.</p></div><a class="button button-primary" href="mailto:info@neuromente.nl">Contact opnemen</a></div>

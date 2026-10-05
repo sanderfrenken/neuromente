@@ -9,16 +9,15 @@
     </div>
     <div>
       <h2>Contact</h2>
+      <p>Ravellaan 28<br>3533 JN Utrecht</p>
       <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a>
       {{ with site.Params.phone }}<a href="tel:{{ . | replaceRE "[^0-9+]" "" }}">{{ . }}</a>{{ end }}
-      {{ with site.Params.address }}<p>{{ . }}</p>{{ end }}
     </div>
     <div>
       <h2>Praktisch</h2>
       <a href="{{ "/praktische-informatie/" | relURL }}#privacy">Privacyverklaring</a>
       <a href="{{ "/praktische-informatie/" | relURL }}#klachtenregeling">Klachtenregeling</a>
       <a href="{{ "/praktische-informatie/" | relURL }}#documenten">Kwaliteitsstatuut</a>
-      <a href="{{ "/praktische-informatie/" | relURL }}#afzeggen-of-niet-verschijnen">Voorwaarden & no-showregeling</a>
     </div>
     <div>
       <h2>Registraties</h2>

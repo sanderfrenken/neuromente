@@ -179,6 +179,7 @@ p { margin: 0 0 1.25em; }
 .form-layout-embed { grid-template-columns: 1fr; gap: 42px; }
 .form-layout-embed > .prose { max-width: 780px; }
 .form-card { align-self: start; padding: 38px; background: var(--white); border-radius: var(--radius); box-shadow: var(--shadow); }
+.form-card[id] { scroll-margin-top: 24px; }
 .form-card h2 { font-size: 2rem; }
 .formdesk-frame-wrap { width: 100%; margin-top: 28px; padding-bottom: 96px; overflow: visible; border: 1px solid var(--line); border-radius: 18px; background: var(--paper); }
 .formdesk-frame { display: block; width: 100%; min-height: 560px; border: 0; }

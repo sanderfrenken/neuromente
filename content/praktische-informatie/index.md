@@ -1,133 +1,106 @@
 ---
 title: "Praktische informatie"
 eyebrow: "Goed om te weten"
-description: "Informatie over verwijzing, wachttijden, vergoedingen, tarieven, klachten en bereikbaarheid."
+description: "Informatie over kosten en vergoeding, wachttijden, afspraken, bereikbaarheid, privacy en klachten."
 ---
+
+Hier vindt u informatie over kosten en vergoeding, wachttijden, afspraken, bereikbaarheid, privacy en klachten.
 
 ## Kosten en vergoeding {#kosten-en-vergoeding}
 
-### Vergoeding vanuit de basisverzekering
+NeuroMente heeft momenteel geen contracten met zorgverzekeraars. U ontvangt daarom de factuur zelf en kunt deze indienen bij uw zorgverzekeraar.
 
-Psychologische behandeling binnen de generalistische basis-ggz en gespecialiseerde ggz kan vanuit de basisverzekering worden vergoed wanneer sprake is van verzekerde ggz en aan de voorwaarden voor vergoeding wordt voldaan. Hiervoor is een geldige verwijzing van de huisarts of medisch specialist nodig.
+De hoogte van de vergoeding voor niet-gecontracteerde zorg verschilt per zorgverzekeraar en polis. Het is daarom verstandig om vooraf bij uw zorgverzekeraar na te vragen welk deel van de zorg wordt vergoed en welk deel eventueel voor eigen rekening blijft.
 
-NeuroMente heeft op dit moment geen contracten met zorgverzekeraars. U ontvangt daarom de factuur van NeuroMente zelf en kunt deze vervolgens indienen bij uw zorgverzekeraar.
+Verzekerde geestelijke gezondheidszorg valt onder het verplichte eigen risico.
 
-De hoogte van de vergoeding voor niet-gecontracteerde zorg verschilt per zorgverzekeraar en polis. Het is daarom belangrijk om vooraf bij uw zorgverzekeraar na te vragen welk deel van de behandeling wordt vergoed en welk deel eventueel voor eigen rekening blijft.
+### Tarieven {#tarieven}
 
-Verzekerde ggz valt onder het verplichte eigen risico.
+NeuroMente hanteert voor verzekerde ggz de geldende NZa-maximumtarieven voor een vrijgevestigd klinisch neuropsycholoog.
 
-### Tarieven verzekerde ggz 2026 {#tarieven}
-
-Binnen de ggz wordt gewerkt met het Zorgprestatiemodel. NeuroMente hanteert de voor 2026 geldende maximumtarieven van de Nederlandse Zorgautoriteit (NZa) voor een vrijgevestigd klinisch neuropsycholoog.
-
-De hoogte van het tarief is afhankelijk van het type consult en de duur ervan. Bij neuropsychologische diagnostiek zijn vaak langere consulten nodig dan bij behandeling.
-
-#### Diagnostiek
-
-| Duur | Tarief | Prestatiecode |
-|---|---:|---|
-| 45 minuten | € 232,68 | CO0408 |
-| 60 minuten | € 265,97 | CO0538 |
-| 75 minuten | € 323,87 | CO0668 |
-| 90 minuten | € 397,19 | CO0798 |
-| 120 minuten | € 548,38 | CO0928 |
+Voor 2026 gelden voor de meest voorkomende consulten de volgende tarieven:
 
 #### Behandeling
 
-| Duur | Tarief | Prestatiecode |
-|---|---:|---|
-| 45 minuten | € 197,70 | CO0473 |
-| 60 minuten | € 233,63 | CO0603 |
-| 75 minuten | € 287,31 | CO0733 |
-| 90 minuten | € 351,12 | CO0863 |
-| 120 minuten | € 498,31 | CO0993 |
+| Duur | Tarief |
+|---|---:|
+| 45 minuten | € 197,70 |
+| 60 minuten | € 233,63 |
 
-De genoemde tarieven zijn de NZa-maximumtarieven voor 2026. De daadwerkelijk gedeclareerde prestatie wordt bepaald door het type consult en de duur van het directe contact met de cliënt.
+#### Diagnostiek
 
-In de tarieven voor diagnostiek en behandeling is een gemiddelde vergoeding voor indirecte patiëntgebonden tijd verwerkt, bijvoorbeeld voor voorbereiding, verslaglegging en administratieve werkzaamheden.
+| Duur | Tarief |
+|---|---:|
+| 45 minuten | € 232,68 |
+| 60 minuten | € 265,97 |
+| 90 minuten | € 397,19 |
 
-Bron: [NZa-tariefbeschikking geestelijke gezondheidszorg en forensische zorg 2026](https://puc.overheid.nl/nza/doc/PUC_816801_22/).
+Het tarief is afhankelijk van het type consult en de duur ervan. De tarieven worden jaarlijks aangepast aan de dan geldende NZa-maximumtarieven.
 
-### Neuropsychologisch onderzoek
+Omdat NeuroMente momenteel geen contracten heeft met zorgverzekeraars, kan de vergoeding lager zijn dan het gedeclareerde tarief. Het verschil kan daardoor gedeeltelijk voor uw eigen rekening komen. Informeer daarom vooraf bij uw zorgverzekeraar naar de vergoeding voor niet-gecontracteerde ggz.
 
-Een neuropsychologisch onderzoek bestaat meestal uit meerdere onderdelen en kan, afhankelijk van de vraagstelling, bestaan uit een intake, dossier- en informatieverzameling, testonderzoek, analyse en interpretatie van de onderzoeksgegevens en een uitslaggesprek.
+Voorafgaand aan de start van een traject ontvangt u informatie over de kosten die voor uw situatie van toepassing zijn.
 
-De duur en omvang van het onderzoek worden afgestemd op de individuele diagnostische vraagstelling. Daardoor kunnen tijdens één diagnostiektraject meerdere diagnostiekconsulten worden gedeclareerd.
+### Zelfbetalers en niet-verzekerde zorg {#zelfbetalers}
 
-Bij complexe diagnostische vraagstellingen waarbij uitgebreid aanvullend psychologisch onderzoek noodzakelijk is, kan onder de daarvoor geldende voorwaarden aanvullend de NZa-toeslag psychodiagnostiek van toepassing zijn. Het maximumtarief voor deze toeslag bedraagt in 2026 **€ 207,85** (prestatiecode **TC0016**).
+Wanneer zorg niet vanuit de basisverzekering wordt vergoed, of wanneer u ervoor kiest de zorg zelf te betalen, kan diagnostiek of behandeling in bepaalde situaties particulier worden aangeboden.
 
-Of neuropsychologisch onderzoek vanuit de basisverzekering wordt vergoed, hangt af van de indicatie en de voorwaarden voor verzekerde ggz. Vooraf wordt besproken of de diagnostiek naar verwachting onder verzekerde zorg valt.
+Vooraf wordt besproken wat naar verwachting nodig is en welke kosten daarbij horen.
 
-### Zelfbetalers en niet-verzekerde zorg
+### Afzeggen of niet verschijnen {#afzeggen-of-niet-verschijnen}
 
-Wanneer zorg niet vanuit de basisverzekering wordt vergoed, of wanneer u ervoor kiest de zorg zelf te betalen, kan behandeling of diagnostiek in bepaalde situaties particulier worden aangeboden.
+Kunt u niet naar een afspraak komen? Laat dit dan bij voorkeur minimaal 24 uur van tevoren weten.
 
-Voor zelfbetaalde diagnostiek en behandeling hanteert NeuroMente dezelfde tarieven als de geldende NZa-maximumtarieven voor een klinisch neuropsycholoog, zoals hierboven weergegeven.
+Bij niet verschijnen of bij afzegging minder dan 24 uur voor aanvang van de afspraak kan **€ 50** in rekening worden gebracht. Dit bedrag wordt niet vergoed door de zorgverzekeraar en wordt rechtstreeks aan u gefactureerd.
 
-Voor particuliere zorg is geen verwijzing nodig. Deze kosten worden rechtstreeks aan u gefactureerd en worden niet vanuit de basisverzekering vergoed. Het verplichte eigen risico is dan niet van toepassing.
+## Wachttijd, afspraken en bereikbaarheid {#wachttijd-en-bereikbaarheid}
 
-Vooraf worden de verwachte omvang van het traject en de bijbehorende kosten met u besproken.
+NeuroMente is een startende praktijk. Op dit moment is er geen structurele wachttijd.
 
-### Afzeggen en niet verschijnen
+Na aanmelding ontvangt u binnen vijf werkdagen een reactie. Eerst wordt bekeken of uw hulpvraag aansluit bij het aanbod van NeuroMente. Wanneer dit het geval is, wordt in overleg een intake gepland.
 
-Wanneer u een afspraak wilt afzeggen of verplaatsen, verzoeken wij u dit minimaal 24 uur vóór de afspraak te doen.
+Wanneer de wachttijd oploopt, wordt de actuele informatie op deze pagina aangepast.
 
-Bij niet verschijnen of bij afzegging minder dan 24 uur voor aanvang van de afspraak kan een bedrag van **€ 50** in rekening worden gebracht.
+Afspraken vinden uitsluitend op afspraak plaats.
 
-Dit bedrag wordt niet vergoed door de zorgverzekeraar en wordt rechtstreeks aan u gefactureerd.
+Voor aanmelding kunt u gebruikmaken van het [beveiligde aanmeldformulier](/aanmelden/#aanmeldformulier). Voor algemene of praktische vragen kunt u mailen naar [info@neuromente.nl](mailto:info@neuromente.nl).
 
-### Controleer uw vergoeding vooraf
+## Privacy, klachten en documenten {#privacy-klachten-documenten}
 
-Omdat NeuroMente op dit moment geen contracten met zorgverzekeraars heeft, adviseren wij u vóór de start van diagnostiek of behandeling contact op te nemen met uw zorgverzekeraar.
+### Privacy {#privacy}
 
-U kunt daarbij navragen:
+Bij NeuroMente wordt zorgvuldig en vertrouwelijk omgegaan met persoonsgegevens en medische informatie.
 
-- of de betreffende zorg vanuit uw basisverzekering wordt vergoed;
-- hoeveel uw zorgverzekeraar vergoedt voor niet-gecontracteerde ggz;
-- welke voorwaarden hiervoor gelden;
-- welk bedrag eventueel voor eigen rekening blijft;
-- hoe uw eigen risico wordt toegepast.
+In de privacyverklaring leest u welke gegevens worden verwerkt, waarom dit gebeurt, hoe deze worden beschermd en welke rechten u heeft.
 
-De uiteindelijke vergoeding wordt bepaald door uw zorgverzekeraar en de polisvoorwaarden die voor u gelden. De actuele maximumtarieven worden jaarlijks vastgesteld door de Nederlandse Zorgautoriteit (NZa).
+[Download de Privacyverklaring NeuroMente (PDF)](/documenten/NeuroMente_Privacyverklaring.pdf)
 
-## Wachttijden {#wachttijden}
+### Klachtenregeling {#klachtenregeling}
 
-NeuroMente is een startende praktijk. De actuele wachttijd voor een intake en de start van diagnostiek of behandeling kan variëren.
+Bij NeuroMente vind ik het belangrijk dat u zich gehoord voelt en tevreden bent over de zorg die u ontvangt. Toch kan het gebeuren dat u ergens niet tevreden over bent of dat iets anders verloopt dan u had verwacht.
 
-Na aanmelding ontvangt u binnen **5 werkdagen** een reactie. Eerst wordt beoordeeld of de hulpvraag aansluit bij het zorgaanbod van NeuroMente. Wanneer dit het geval is, wordt in overleg zo spoedig mogelijk een intake gepland.
+Ik nodig u uit om dit in eerste instantie met mij te bespreken. Vaak helpt een gesprek om onduidelijkheden te verhelderen en samen naar een oplossing te zoeken.
 
-Op dit moment is er geen structurele wachttijd. Wanneer de wachttijd oploopt, wordt deze informatie op deze pagina bijgewerkt.
+Wilt u uw klacht liever niet rechtstreeks met mij bespreken, of komen we er samen niet uit? Dan kunt u terecht bij een onafhankelijke klachtenfunctionaris. NeuroMente is aangesloten bij de klachten- en geschillenregeling Psychologische zorg Wkkgz van het Nederlands Instituut van Psychologen (NIP).
 
-De actuele wachttijd kan ook per e-mail of telefonisch worden opgevraagd.
-
-## Afspraken en bereikbaarheid {#afspraken}
-
-Afspraken vinden plaats op afspraak.
-
-NeuroMente bouwt de praktijk momenteel geleidelijk op. Vanaf januari 2027 zijn afspraken in principe mogelijk op donderdag. De actuele beschikbaarheid wordt afgestemd bij aanmelding.
-
-Voor vragen of aanmelding kunt u gebruikmaken van het contact- of aanmeldformulier. NeuroMente is niet bereikbaar voor spoedeisende hulp of crisiszorg.
-
-## Klachtenregeling {#klachtenregeling}
-
-NeuroMente streeft naar zorgvuldige en professionele zorg. Toch kan het voorkomen dat u niet tevreden bent over de behandeling of over de manier waarop u bent bejegend.
-
-Bespreek uw klacht bij voorkeur eerst met uw behandelaar. Vaak kan een gesprek helpen om onduidelijkheden of onvrede op te lossen.
-
-Komt u er samen niet uit, of bespreekt u uw klacht liever met een onafhankelijke partij, dan kunt u gebruikmaken van de klachtenregeling Wkkgz van het Nederlands Instituut van Psychologen (NIP). NeuroMente is bij deze regeling aangesloten.
-
-Klachten kunnen worden ingediend bij het Centraal Bureau Klachtenmanagement in de Zorg (CBKZ) via [klachten@cbkz.nl](mailto:klachten@cbkz.nl).
+U kunt contact opnemen met het Centraal Bureau Klachtenmanagement in de Zorg (CBKZ) via [klachten@cbkz.nl](mailto:klachten@cbkz.nl).
 
 U kunt hiervoor ook gebruikmaken van het officiële [klachtenformulier van de NIP-regeling](https://nip.nl/wp-content/uploads/2022/12/Klachtenformulier-NIP-regeling-1.docx).
 
-Meer informatie vindt u bij de [klachtenregeling Wkkgz van het NIP](https://nip.nl/klachtenregeling/wkkgz/).
+Wanneer een klacht niet met behulp van de klachtenfunctionaris kan worden opgelost, kunt u de klacht voorleggen aan de onafhankelijke Geschillencommissie Vrijgevestigde GGZ-praktijken.
 
-Wanneer een klacht niet via de klachtenfunctionaris kan worden opgelost, biedt de NIP-regeling ook toegang tot de onafhankelijke Geschillencommissie Vrijgevestigde GGZ-praktijken conform de Wkkgz.
+Ook kunt u het volledige [Reglement Klachten- en geschillenregeling van NeuroMente (PDF)](/documenten/NeuroMente_Klachten-en-geschillenreglement-Wkkgz-NIP2026.pdf) bekijken.
 
-## Documenten {#documenten}
+### Documenten {#documenten}
 
-De privacyverklaring, het kwaliteitsstatuut en de algemene voorwaarden worden vóór opening van de praktijk beschikbaar gemaakt.
+Op deze website vindt u de belangrijkste documenten van NeuroMente:
+
+- [Privacyverklaring NeuroMente (PDF)](/documenten/NeuroMente_Privacyverklaring.pdf)
+- [Reglement Klachten- en geschillenregeling NeuroMente (PDF)](/documenten/NeuroMente_Klachten-en-geschillenreglement-Wkkgz-NIP2026.pdf)
+- **Kwaliteitsstatuut NeuroMente** *(wordt toegevoegd zodra dit is goedgekeurd)*
 
 ## Bij spoed {#spoed}
 
-NeuroMente biedt geen crisiszorg. Neem bij spoed contact op met uw huisarts of buiten kantooruren met de huisartsenpost. Bel **112** bij direct gevaar.
+NeuroMente biedt geen crisiszorg.
+
+Neem bij spoed contact op met uw huisarts of buiten kantooruren met de huisartsenpost. Bel **112** bij direct gevaar.

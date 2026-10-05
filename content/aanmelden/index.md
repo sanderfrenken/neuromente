@@ -11,4 +11,6 @@ Vul het formulier zo volledig mogelijk in. De gegevens worden gebruikt om te beo
 
 ## Wat gebeurt er daarna?
 
-Na ontvangst beoordeelt de praktijk uw aanmelding. U krijgt vervolgens bericht over de vervolgstappen. De reactietermijn wordt hier toegevoegd zodra die is vastgesteld.
+Na ontvangst beoordeelt de praktijk uw aanmelding. U ontvangt binnen vijf werkdagen een reactie over de vervolgstappen.
+
+Heeft u alleen een algemene of praktische vraag? Mail dan naar [info@neuromente.nl](mailto:info@neuromente.nl). Stuur via gewone e-mail geen medische gegevens, verwijsbrieven of andere privacygevoelige informatie.

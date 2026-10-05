@@ -1,24 +1,23 @@
 ---
 title: "Over mij"
 eyebrow: "Fabienne van Vliet"
-description: "Klinisch neuropsycholoog met ervaring in Nederland en Colombia."
+description: "Klinisch neuropsycholoog met aandacht voor taal, cultuur en de persoonlijke context van de cliënt."
 ---
 
-## Klinisch neuropsycholoog {#achtergrond}
+Mijn naam is Fabienne van Vliet. Ik ben klinisch neuropsycholoog en richt mij binnen NeuroMente op neuropsychologische diagnostiek en behandeling bij volwassenen.
 
-Mijn naam is Fabienne van Vliet en ik ben klinisch neuropsycholoog.
+Ik ben opgegroeid in Colombia en volgde daar een Duitstalige school. Na mijn studie Psychologie kwam ik naar Nederland om mij verder te specialiseren in de neuropsychologie. In mijn opleiding en werk heb ik ervaring opgedaan binnen de geestelijke gezondheidszorg, neurorevalidatie en een academisch ziekenhuis.
 
-Ik ben opgegroeid in Colombia, waar ik mijn bachelor Psychologie afrondde. In 2010 kwam ik naar Nederland om mij verder te specialiseren in de neuropsychologie.
-
-Na mijn opleiding tot gezondheidszorgpsycholoog specialiseerde ik mij verder tot klinisch neuropsycholoog. Sinds 2026 ben ik als zodanig geregistreerd.
+Sinds 2019 werk ik in een academisch ziekenhuis met volwassenen met cognitieve en psychische klachten in samenhang met neurologische en andere somatische aandoeningen.
 
 ## Wetenschappelijk onderzoek {#onderzoek}
 
-Naast mijn klinische werk doe ik wetenschappelijk onderzoek naar het beloop van cognitief functioneren over de dag, ook wel cognitieve duurbelastbaarheid genoemd. Inmiddels bevind ik mij in de laatste fase van mijn promotietraject.
+Naast mijn klinische werk doe ik wetenschappelijk onderzoek naar cognitieve duurbelastbaarheid en veranderingen in cognitief functioneren gedurende de dag. Dit onderzoek vormt de basis van mijn promotietraject.
 
-## Tussen talen en culturen {#cultuur}
+## Taal, cultuur en context {#cultuur}
 
-Doordat ik ben opgegroeid in Colombia en later naar Nederland ben verhuisd, heb ik zelf ervaren wat het betekent om tussen verschillende talen en culturen te leven.
+Mijn achtergrond in verschillende landen en talen heeft mijn aandacht voor taal, cultuur en context mede gevormd. Hoe klachten worden ervaren en beschreven, en wat veranderingen in functioneren voor iemand betekenen, hangt niet alleen samen met een aandoening. Ook iemands achtergrond, gezin, werk en leefomgeving kunnen daarin een rol spelen.
 
-Diagnostiek en behandeling kunnen daarom zowel in het Nederlands als in het Spaans plaatsvinden, met aandacht voor de persoonlijke en culturele context.
+Bij diagnostiek en behandeling vind ik het daarom belangrijk om klachten en testresultaten te bekijken in relatie tot het dagelijks leven en de persoonlijke situatie van de cliënt.
 
+NeuroMente biedt zorg in het Nederlands en Spaans. Waar relevant wordt rekening gehouden met taal, opleidingsachtergrond en culturele context.

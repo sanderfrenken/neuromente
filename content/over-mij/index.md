@@ -14,15 +14,9 @@ hide_toc: true
   </div>
 </div>
 
-## Klinische ervaring
-
 Sinds 2019 werk ik in een universitair medisch centrum met volwassenen met cognitieve en psychische klachten in samenhang met neurologische en andere somatische aandoeningen.
 
-## Wetenschappelijk onderzoek
-
 Naast mijn klinische werk doe ik wetenschappelijk onderzoek naar cognitieve duurbelastbaarheid en veranderingen in cognitief functioneren gedurende de dag. Dit onderzoek vormt de basis van mijn promotietraject.
-
-## Persoonlijke context
 
 Mijn achtergrond in verschillende landen en talen heeft mijn aandacht voor taal, cultuur en context mede gevormd. Hoe klachten worden ervaren en beschreven, en wat veranderingen in functioneren voor iemand betekenen, hangt niet alleen samen met een aandoening. Ook iemands achtergrond, gezin, werk en leefomgeving kunnen daarin een rol spelen.
 

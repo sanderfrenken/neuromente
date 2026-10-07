@@ -100,7 +100,7 @@ Op deze website vindt u de belangrijkste documenten van NeuroMente:
 
 - [Privacyverklaring NeuroMente (PDF)](/documenten/NeuroMente_Privacyverklaring.pdf)
 - [Reglement Klachten- en geschillenregeling NeuroMente (PDF)](/documenten/NeuroMente_Klachten-en-geschillenreglement-Wkkgz-NIP2026.pdf)
-- **Kwaliteitsstatuut NeuroMente** *(wordt toegevoegd zodra dit is goedgekeurd)*
+- [Kwaliteitsstatuut NeuroMente (PDF)](/documenten/NeuroMente_Kwaliteitsstatuut.pdf)
 
 ## Bij spoed {#spoed}
 
